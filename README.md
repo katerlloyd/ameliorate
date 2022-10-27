@@ -7,7 +7,7 @@ I will work on a coding project for at least an hour a day (excluding Sundays) t
 <table>
   <tr>
     <td rowspan="3"><img src="/images/butterfly.png" alt="CSS Butterfly" /></td>
-    <td><strong>Today's Progress:</strong> I was able to learn how to use transparent borders to create polygons.</td>
+    <td><strong>Today's Progress:</strong> I was able to learn how to use transparent borders to create polygons to form a pure CSS butterfly.</td>
   </tr>
   <tr>
     <td><strong>Thoughts:</strong> I felt that it was a bit difficult to position each shape in the box and I hope to get more adept at it as I keep practicing.</td>
