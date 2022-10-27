@@ -2,15 +2,15 @@
 
 I will work on a coding project for at least an hour a day (excluding Sundays) to track and visualize my progress, to get better at programming, and, most importantly, **to have fun**.
 
-## DAY 1: Ruler
+## DAY 1: Butterfly
 
 <table>
   <tr>
-    <td rowspan="3"><img src="/images/ruler.png" alt="CSS Ruler" /></td>
-    <td><strong>Today's Progress:</strong> I was able to ... CSS</td>
+    <td rowspan="3"><img src="/images/butterfly.png" alt="CSS Butterfly" /></td>
+    <td><strong>Today's Progress:</strong> I was able to learn how to use transparent borders to create polygons.</td>
   </tr>
   <tr>
-    <td><strong>Thoughts:</strong> I felt ...</td>
+    <td><strong>Thoughts:</strong> I felt that it was a bit difficult to position each shape in the box and hope to get more adept at it as I keep practicing.</td>
   </tr>
   <tr>
     <td><strong>Link(s):</strong> ...</td>
