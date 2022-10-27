@@ -10,10 +10,10 @@ I will work on a coding project for at least an hour a day (excluding Sundays) t
     <td><strong>Today's Progress:</strong> I was able to learn how to use transparent borders to create polygons.</td>
   </tr>
   <tr>
-    <td><strong>Thoughts:</strong> I felt that it was a bit difficult to position each shape in the box and hope to get more adept at it as I keep practicing.</td>
+    <td><strong>Thoughts:</strong> I felt that it was a bit difficult to position each shape in the box and I hope to get more adept at it as I keep practicing.</td>
   </tr>
   <tr>
-    <td><strong>Link(s):</strong> ...</td>
+    <td><strong>Link:</strong> None</td>
   </tr>
 </table>
 
@@ -28,6 +28,6 @@ I will work on a coding project for at least an hour a day (excluding Sundays) t
     <td><strong>Thoughts:</strong> I felt ...</td>
   </tr>
   <tr>
-    <td><strong>Link(s):</strong> ...</td>
+    <td><strong>Link:</strong> None</td>
   </tr>
 </table>
